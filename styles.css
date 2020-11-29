@@ -108,9 +108,44 @@ h3{
 	margin-right: auto;
 }
 
-/* Experience section */
-#experience{
+/* Education section */
+#education{
 	background-color: #D7E9F7;
+	width: 100%;
+	height: auto;
+}
+
+/* Experience section*/
+#experience{
+	background-color: #292F33;
+	width: 100%;
+	height: auto;
+}
+
+/* Skills section */
+#skills{
+	background-color: #D7E9F7;
+	width: 100%;
+	height: auto;
+}
+
+/* Experience section*/
+#volunteering{
+	background-color: #292F33;
+	width: 100%;
+	height: auto;
+}
+
+/* Campus Involvment section */
+#campus{
+	background-color: #D7E9F7;
+	width: 100%;
+	height: auto;
+}
+
+/*Awards section */
+#awards{
+	background-color: #292F33;
 	width: 100%;
 	height: auto;
 }
@@ -121,3 +156,27 @@ h3{
 	width: 100%;
 	height: auto;
 }
+
+.skillList {
+	text-align: left;
+}
+
+/* Experience section styling */
+.job {
+	text-align: center;
+}
+
+/* Container styling */
+.float-container {
+    padding: 20px;
+    padding-bottom: 300px;
+}
+
+.float-child {
+	border-radius: 25px;
+	background-color: white;
+	border: 3px solid black;
+    width: 45%;
+    float: left;
+    padding: 20px;
+}  
