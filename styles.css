@@ -44,6 +44,10 @@
 	color: #292F33
 }
 
+body {
+	background-color: #D7E9F7;
+}
+
 div{
 	padding-top: 30px;
 	padding-bottom: 30px;
@@ -170,7 +174,7 @@ h3{
 /* Container styling */
 .float-container {
     padding: 20px;
-    padding-bottom: 300px;
+    padding-bottom: 400px;
 }
 
 .float-child {
